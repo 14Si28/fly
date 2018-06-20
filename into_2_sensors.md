@@ -16,3 +16,17 @@ Using only accelerometer could lead to more loss and error over time based on th
 where as GPS will alway have some error in its measurement but it doesn't grow over time.
 
 Hence finding a perfect positon could be deduced from the fusion of readings of accelerometer and GPS.
+
+
+## GPS
+
+#### How GPS works?
+GPS needs 4 satelites to position somebody at earth.
+All the satelites uses time to receive signal from a body on earth and try to draw a circle where that body could exits
+based on the time taken to receive the signal from the body (using speed of light, we can calculate the displacement).
+Now, the same process is repeated with other 2 satelites and the interesection of possible circle of position of body 
+is calculated (there could only be 2 points possible for 2 circles intersectiong). Now based on the 2 points found based on 
+the intersection of cirecles drawn where the body could exits we can select only that point which is near to earth or 
+not closer to the salelites. The other point will exits in the space.
+
+The fourth saltelite is used for correcting the error in the measurement.
