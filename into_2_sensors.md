@@ -34,3 +34,9 @@ The fourth saltelite is used for correcting the error in the measurement.
 ## Barometer
 Barometer is used to measure altitude. Barometer actually measure atmoshpheric pressure and with that it calulates
 the altitude of the vehicle.
+
+## Summery
+Sensor problem is not yet solved completely specifically in case of autonomous flights.
+Mordern vehicles can use LIDAR,RADAR and many more advanced cameras for the flights.
+This problem needs more attention before we increase the number of vahincles in the sky to be more precised over 
+the accuracy of the measurement and positions.
