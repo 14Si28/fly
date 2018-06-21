@@ -30,3 +30,7 @@ the intersection of cirecles drawn where the body could exits we can select only
 not closer to the salelites. The other point will exits in the space.
 
 The fourth saltelite is used for correcting the error in the measurement.
+
+## Barometer
+Barometer is used to measure altitude. Barometer actually measure atmoshpheric pressure and with that it calulates
+the altitude of the vehicle.
