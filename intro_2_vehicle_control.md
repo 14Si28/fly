@@ -7,3 +7,10 @@ go down and up and start occilating around the point to reach there.
 To avaiod this process of occilation, we need PID controller where P, I and D stands for Proportional, Integration and differenciation.
 
 (looks like we have to apply thrust based on the altitude remaining after continiuous integration and differentiation)
+
+
+## What need a vehicle to be in the air?
+A vehicle to be in the air, upward thrust equal to the vehicle body weight is not only required to maitain it in 
+the air.
+To maintain the vehicle in the air we need to define aur model whiche needs to manage all the troubles due to air
+and around senarios.
