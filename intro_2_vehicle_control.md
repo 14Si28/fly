@@ -20,3 +20,9 @@ and around senarios.
 We only control drone rotation rates, and these cause forces and moments of the drone, which cause translational
 accelaration and rotational accelaration.
 Here we can't control velocity and position hence we need to rely on accelaration.
+
+## Error are unavoidable
+There are 3 types of errors in general:
+* Model error
+* Disturbance
+* Measurement Noise
