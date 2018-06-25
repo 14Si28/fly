@@ -14,3 +14,9 @@ A vehicle to be in the air, upward thrust equal to the vehicle body weight is no
 the air.
 To maintain the vehicle in the air we need to define aur model whiche needs to manage all the troubles due to air
 and around senarios.
+
+
+## Perfect is impossible
+We only control drone rotation rates, and these cause forces and moments of the drone, which cause translational
+accelaration and rotational accelaration.
+Here we can't control velocity and position hence we need to rely on accelaration.
