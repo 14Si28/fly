@@ -23,6 +23,7 @@ Here we can't control velocity and position hence we need to rely on accelaratio
 
 ## Error are unavoidable
 There are 3 types of errors in general:
-* Model error
-* Disturbance
-* Measurement Noise
+* Model error - error in our prediction and control model
+* Disturbance - due to air turbulance
+* Measurement Noise - error in prediction noise or sensors
+
