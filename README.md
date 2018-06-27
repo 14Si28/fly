@@ -28,7 +28,7 @@ This project is a continuation of the Backyard Flyer project where you executed 
 
 ## FCND-Controls-CPP
 For this project, you will be building a controller in C++. You will be implementing and tuning this controller in several steps.
-
+There are 2 parts of this project, one is in python and other is in C++,
 You may find it helpful to consult the Python controller code as a reference when you build out this controller in C++.
 
 ## Estimation Project
